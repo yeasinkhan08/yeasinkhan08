@@ -1,5 +1,4 @@
 
-`<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Yasin%20Khan&fontSize=55&fontColor=ffffff&fontAlignY=35&animation=fadeIn&color=0:0B1120,100:2563EB" width="100%" />`{=html}
 
 # 👋 Hi, I'm Yasin Khan
 

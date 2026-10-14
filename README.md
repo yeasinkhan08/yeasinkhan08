@@ -71,21 +71,6 @@ A **developer-technology showcase** focused on component-based UI development, r
 
 ---
 
-## 📊 **GitHub Overview**
-
-Keep your existing GitHub stats, top languages, and contribution streak images here.
-
----
-
-## 🤝 **Let's Connect**
-
-I'm always interested in **learning, building, and collaborating** on meaningful projects.
-
-- **GitHub:** [@yeasinkhan08](https://github.com/yeasinkhan08)
-- **Email:** [Contact Me](mailto:kyeasin58@gmail.com)
-
----
-
 <p align="center">
   <strong>💚 Learning. Building. Improving. One commit at a time. 🚀</strong>
 </p>

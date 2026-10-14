@@ -146,4 +146,3 @@ Your existing Git and GitHub badges go here.
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9a7,50:164e63,100:101827&height=140&section=footer&text=Keep%20Building%20%F0%9F%9A%80&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%" alt="Animated footer banner" />
 </p>
-text size will be little big and bold the highlightes part or kewy part

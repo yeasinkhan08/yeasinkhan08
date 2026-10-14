@@ -25,7 +25,7 @@
 
 I'm **Yeasin Khan**, a **Computer Science & Engineering student from Bangladesh**, working toward becoming a **Full-Stack Developer**.
 
-I enjoy building modern web applications, exploring new technologies, and turning ideas into practical projects. My goal is to write **clean, maintainable code** and continuously improve my development skills.
+I enjoy building **modern web applications**, exploring new technologies, and turning ideas into practical projects. My goal is to write **clean, maintainable code** and continuously improve my **development skills**.
 
 - 💻 **Web Development:** React.js & Next.js
 - 🎨 **Frontend Development:** Responsive UI, reusable components & modern design
@@ -33,7 +33,7 @@ I enjoy building modern web applications, exploring new technologies, and turnin
 - 🌱 **Currently Focused On:** Building real-world projects and strengthening my full-stack development skills
 
 ---
-🛠️ Tech Stack & Tools
+## 🛠️ **Tech Stack & Tools**
 
 Frontend Development
 
@@ -69,7 +69,7 @@ Your existing Git and GitHub badges go here.
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-🚀 Featured Projects
+## 🚀 **Featured Projects**
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -115,7 +115,7 @@ Your existing Git and GitHub badges go here.
   </tr>
 </table>
 
-📊 GitHub Overview
+## 📊 **GitHub Overview**
 <div align="center">
   <a href="https://github.com/yeasinkhan08">
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=yeasinkhan08&show_icons=true&hide_border=true&bg_color=101827&title_color=00c9a7&icon_color=00c9a7&text_color=e5e7eb&rank_icon=github" alt="GitHub stats" />

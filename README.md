@@ -47,29 +47,6 @@ Development Tools
 
 Your existing Git and GitHub badges go here.
 
-## 🚀 **Featured Projects**
-
-### 🛒 **BazarDor**
-A **Bangla-first grocery price tracking application** designed to help users explore daily prices, track price changes, and compare prices across different markets.
-
-**Tech Stack:** Next.js · Tailwind CSS · MongoDB
-
-### 💪 **Fit Log**
-A **fitness-tracking web application** built to practice modern web development and create a practical user experience.
-
-**Tech Stack:** Next.js · React
-
-### 📚 **BookNest**
-A **book-focused web application** for exploring modern application patterns, reusable components, and data-driven interfaces.
-
-**Tech Stack:** Next.js · TypeScript
-
-### 🧩 **DevStack**
-A **developer-technology showcase** focused on component-based UI development, reusable layouts, and modern frontend practices.
-
-**Tech Stack:** React · TypeScript · Tailwind CSS
-
----
 
 <p align="center">
   <strong>💚 Learning. Building. Improving. One commit at a time. 🚀</strong>
